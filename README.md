@@ -1,5 +1,5 @@
 # Desafio_Modulo_3_Dio_Mysql_Azure_PowerBI
-Desafio Modulo 3, Bootcamp Dio Simplificando Dados de Mysql do Azure com PowerBI
+[Desafio Modulo 3, Bootcamp Dio Simplificando Dados de Mysql do Azure com PowerBI] 
 
 Para esse desafio foi criado um Banco de Dados Mysql no Microsoft Azure, inserimos os dados ao Banco de Dados pelo Cloud Shell Bash da Azure, uma vez inserida as tabelas e Dados correspondentes, conectamos o nosso Banco ao Power BI, uma vez conectados realizamos a limpeza e transformação dos Dados, foi realizado os siguientes pontos:
 
@@ -11,12 +11,12 @@ Vericação de Valores Nulos,
 
 Verificação de Gerentes e Departamentos,
 
-Mezcla de Tabelas de Employee com Departamentos,
+Mescla de Tabelas de Employee com Departamentos,
 
-Mezcla de Departamento e Localização,
+Mescla de Departamento e Localização,
 
 Mescla de Colunas de Tabelas,
 
-Dasboard do Relatorio dos Dados,
+Dasboard do Relatório dos Dados,
 
 Todos os pontos foram feitos pelo Power Query do Power BI.
