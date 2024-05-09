@@ -20,3 +20,6 @@ Mescla de Colunas de Tabelas,
 Dasboard do Relatório dos Dados,
 
 Todos os pontos foram feitos pelo Power Query do Power BI.
+
+## Dashboard
+![Tabelas](https://github.com/murilovalenso/Desafio_Modulo_3_Dio_Mysql_Azure_PowerBI/blob/main/Dashboard.png).
